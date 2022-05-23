@@ -8,7 +8,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class HomeWorkTest {
+public class StreamAPI {
     @Test
     void checkTask1() {
         List<Integer> list = Arrays.asList(1, 2, 3, 4);
